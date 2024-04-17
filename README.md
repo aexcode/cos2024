@@ -6,9 +6,9 @@ If you're here, you're there!
 
 * **AIWorkshop.pdf** - exercise instructions, helpful study links, etc.
 * **notebooks/simple-regression-model.ipynb** - Exercise #1 Jupyter Notebook
-* **notebooks/basic-cnn.ipynb** - Exercise #2 Jupyter Notebook
+* **notebooks/basic-cnn.ipynb** - extra exercise Jupyter Notebook
 
-**Note:** Exercise #3 is pulled from Kaggle - see the exercise instructions!
+**Note:** Exercise #2 is pulled from https://github.com/lmoroney/tfbook and #3 is pulled from Kaggle - see the exercise instructions!
 
 
 
