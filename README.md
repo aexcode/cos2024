@@ -4,7 +4,7 @@ If you're here, you're there!
 
 ### File Guide
 
-* **AIWorkshop.pdf** - exercise instructions, helpful study links, etc.
+* **AI Hands-On Worksheet.pdf** - exercise instructions, helpful study links, etc.
 * **notebooks/simple-regression-model.ipynb** - Exercise #1 Jupyter Notebook
 * **notebooks/basic-cnn.ipynb** - extra exercise Jupyter Notebook
 
